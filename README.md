@@ -15,7 +15,7 @@ This project demonstrates a dynamic "falling rain" effect using a grid-based des
 - **JavaScript**: Logic for dynamic rain effect and grid rendering.
 
 ### Demo Video
-[Watch the Demo Video](path/to/video.mp4)
+[Watch the Demo Video](video.mp4)
 
 
 
