@@ -13,7 +13,9 @@ This project demonstrates a dynamic "falling rain" effect using a grid-based des
 - **React.js**: Frontend framework used for creating the interactive UI.
 - **CSS**: For styling and grid layout.
 - **JavaScript**: Logic for dynamic rain effect and grid rendering.
-## demo
+
+### Demo Video
+[Watch the demo video](path/to/video.mp4)
 
 
 ## Getting Started
